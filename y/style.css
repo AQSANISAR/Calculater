@@ -1,0 +1,262 @@
+body{
+    padding: 0px;
+    margin: 0px;
+  overflow: hidden;
+   
+  }
+div.hj{
+    background-color: black;
+    color: white;
+ 
+text-align: c10enter;
+
+ 
+
+}
+
+@media screen and (max-width:389px){
+    .hj {
+        width: 380px;
+    }
+
+}
+
+.main{
+ 
+    margin: 0px;
+    padding: 0px;
+    background-color:#00008B;
+    width: 570px;
+    height: 680px;  
+    box-shadow: 5px 5px gray;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+  
+
+  
+}
+@media screen and  (max-width:619px){
+   .main {width: 380px;
+    height: 500px; }
+ 
+}
+
+.scr{
+  width: 540px;
+  height: 140px;
+  margin-top: 40px;
+  outline: none;
+  border-radius: 30px;
+   border: transparent;
+   font-size: 90px;
+box-shadow: 4px 2px 4px lightskyblue ;
+background-color: black;
+color: white;
+
+
+}
+
+@media screen and (max-width:619px){
+
+    .scr{
+        width: 450px;
+        height: 80px;
+    }
+}
+
+@media screen and (max-width:619px){
+    .scr{
+
+        width: 350px;
+        height: 80px;
+  margin: 18px;
+    
+    }
+}
+
+.io{
+ width: 100px;
+ height: 50px;
+ margin-top: 10px;
+ margin: 12px;
+
+ border-radius: 25px;
+ background-color: #F8F8FF
+ ;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 20px;
+ font-weight: bold;
+border: none;
+outline: none;
+box-shadow: 5px 5px grey;
+cursor: pointer;
+}
+.io:hover{
+     background-color:		#A9A9A9	;
+     color: white;
+
+ }
+
+
+@media screen and (max-width:619px){
+    .io{
+        width: 50px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width:300px){
+    .io{
+        width: 50px;
+        height: 40px;
+    }
+}
+
+.i{
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin: 12px;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+   border: none;
+   outline: none;
+   box-shadow: 5px 5px grey;
+   cursor: pointer;
+   background-color:	#FF4500;
+   color: white;
+}
+.i:hover{
+    background-color:	#A9A9A9	;
+    color: white;
+}
+@media screen and (max-width:619px){
+    .i{
+        width: 50px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width:300px){
+    .i{
+        width: 50px;
+        height: 40px;
+    }
+}
+.oo{
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin: 12px;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+   border: none;
+   outline: none;
+   box-shadow: 5px 5px grey;
+   cursor: pointer;
+   background-color:#33A1C9;
+   color: white
+}
+@media screen and (max-width:619px){
+    .oo{
+        width: 50px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width:300px){
+    .oo{
+        width: 50px;
+        height: 40px;
+    }
+}
+.oo:hover{
+    background-color:	#A9A9A9	;
+    color: white;
+}
+.ik{
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin: 12px;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+   border: none;
+   outline: none;
+   box-shadow: 5px 5px grey;
+   cursor: pointer;
+   background-color: teal;
+   color: whitesmoke   
+}
+.ik:hover{
+    background-color	:#A9A9A9	;
+    color: white;
+
+}
+@media screen and (max-width:619px){
+    .ik{
+        width: 50px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width:300px){
+    .ik{
+        width: 50px;
+        height: 40px;
+    }
+}
+.gt{
+    height: 770px;
+
+}
+@media screen and (max-width:389px){
+    .gt {
+        width: 380px;
+    }
+
+}
+.yo{   width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin: 12px;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+   border: none;
+   outline: none;
+   box-shadow: 5px 5px grey;
+   cursor: pointer;
+   background-color: brown;
+   color: whitesmoke   
+
+}
+.yo:hover{
+    background-color	:#A9A9A9	;
+    color: white;
+
+}
+@media screen and (max-width:619px){
+    .yo{
+        width: 50px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width:300px){
+    .yo{
+        width: 50px;
+        height: 40px;
+    }
+}
